@@ -1,3 +1,5 @@
+# HomeWork GDSC USTHB Club
+
 ## SVM Iris Classification
 
 This repository implements a Support Vector Machine (SVM) for classifying Iris flower species based on sepal and petal measurements.
